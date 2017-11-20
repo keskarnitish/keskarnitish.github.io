@@ -1,31 +1,64 @@
-# jemdoc: menu{MENU}{index.html}, analytics{UA-63555941-1}
+# jemdoc: analytics{UA-109844248-1}
 = Nitish Shirish Keskar
 
 ~~~
 {}{img_left}{nitishkeskar_portrait.jpg}{Portrait of Nitish Keskar}{140}{200}
-Nitish Shirish Keskar \n
-[http://www.iems.northwestern.edu/ Industrial Engineering and Management Sciences] \n
-[http://www.northwestern.edu/ Northwestern University] \n \n
-Advisors: [http://users.iems.northwestern.edu/~nocedal/ Prof. Jorge Nocedal] and [http://users.iems.northwestern.edu/~andreasw/ Prof. Andreas Waechter]
+I'm a Senior Research Scientist at Salesforce Research in Palo Alto where I work on Deep Learning and its applications to Natural Language Processing and Computer Vision. I am particularly interested in efficient training methods and issues pertaining to generalization and scalability.
+
+I received my PhD from [http://www.northwestern.edu/ Northwestern University] in 2017 under the supervision of [http://users.iems.northwestern.edu/~nocedal/ Prof. Jorge Nocedal] and [http://users.iems.northwestern.edu/~andreasw/ Prof. Andreas Waechter]. For my PhD, I focused on efficiently finding solutions to Mathematical Optimization problems which are nonsmooth or stochastic. This includes several problems in Machine Learning and Deep Learning. 
+
+News: 
+- I'll be speaking at the [https://supercomputersfordl2017.github.io/ Deep Learning at Supercomputing Scale] symposium at NIPS 2017. 
 ~~~
 
 == Contact
-The Technological Institute \n
-Northwestern University \n
-2145 Sheridan Road, Room C210 \n
-Evanston, IL 60208 \n
-Email: [keskar.nitish@u.northwestern.edu keskar.nitish@u.northwestern.edu] \n
+
+Email: [keskar.nitish@gmail.com keskar.nitish@gmail.com] \n
 Phone: +1-805-312-8841
 
 == Links
 - [https://scholar.google.com/citations?user=CJ-_cEEAAAAJ&hl=en Google Scholar]
+- [https://semanticscholar.org/author/Nitish-Shirish-Keskar/2924281 Semantic Scholar]
 - [https://www.linkedin.com/in/nitishkeskar LinkedIn]
 - [https://www.twitter.com/strongduality  Twitter]
 - [https://www.github.com/keskarnitish GitHub]
-- [http://stackexchange.com/users/2346496 StackExchange]
+
+== Publications
+
+- *Regularizing and optimizing LSTM language models.* S. Merity, N. Keskar & R. Socher. \n 
+Paper: [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
+
+- *Weighted Transformer Network for Machine Translation.* K. Ahmed, N. Keskar & R. Socher \n
+Paper: [https://arxiv.org/abs/1711.02132 arXiv preprint]
+
+- *Balancing Communication and Computation in Distributed Optimization.* A. Berahas, R. Bollapragada, N. Keskar & E. Wei \n
+Paper: [https://arxiv.org/abs/1709.02999 arXiv preprint]
+
+- *On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima.* N. Keskar, D. Mudigere, J. Nocedal, M. Smelyanskiy & P. T. P. Tang  \n
+Paper: [https://openreview.net/forum?id=H1oyRlYgg&noteId=H1oyRlYgg ICLR 2017], [https://arxiv.org/abs/1609.04836 arXiv preprint]\n Code: [https://github.com/keskarnitish/large-batch-training GitHub] \n
+This paper was selected for an oral presentation at ICLR 2017; only 15 such papers were selected. 
+
+- *A Limited-Memory Quasi-Newton Algorithm for Bound-Constrained Nonsmooth Optimization.* N. Keskar & A. Waechter \n
+Paper: [http://www.tandfonline.com/doi/abs/10.1080/10556788.2017.1378652 Optimization Methods & Software], [https://arxiv.org/abs/1612.07350 arXiv preprint]\n Code: [https://github.com/keskarnitish/NQN GitHub]
+
+- *adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs.* N. Keskar & A. Berahas \n
+Paper: [http://link.springer.com/chapter/10.1007/978-3-319-46128-1_1 Proceedings of ECML-PKDD 2016], [https://arxiv.org/abs/1511.01169 arXiv preprint]\n Code: [https://github.com/keskarnitish/minSQN GitHub]
+
+- *A Second-Order Method for Convex L1-Regularized Optimization with Active Set Prediction.* N. Keskar, J. Nocedal, F. Oztoprak & A. Waechter \n
+Paper: [http://www.tandfonline.com/doi/pdf/10.1080/10556788.2016.1138222 Optimization Methods & Software], [http://arxiv.org/abs/1505.04315 arXiv preprint]\n Code: [https://github.com/keskarnitish/oba GitHub] \n 
+This paper won the [http://explore.tandfonline.com/page/est/charles-broyden-prize 2016 Charles Broyden Prize] for best paper published in the Optimization Methods & Software journal.
+
+- *A Nonmonotone Learning Rate Strategy for SGD Training of Deep Neural Networks.* N. Keskar & G. Saon \n
+Paper: [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178917 Proceedings of IEEE ICASSP (2015)]
+
+
+
+
+
 
 == Research Interests
 - Nonlinear Optimization
 - Deep Learning
 - Machine Learning
+- Natural Language Processing
 - Scientific Computing
