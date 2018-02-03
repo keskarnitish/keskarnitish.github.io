@@ -7,8 +7,8 @@ I'm a Senior Research Scientist at Salesforce Research in Palo Alto where I work
 
 I received my PhD from [http://www.northwestern.edu/ Northwestern University] in 2017 under the supervision of [http://users.iems.northwestern.edu/~nocedal/ Prof. Jorge Nocedal] and [http://users.iems.northwestern.edu/~andreasw/ Prof. Andreas Waechter]. For my PhD, I focused on efficiently finding solutions to Mathematical Optimization problems which are nonsmooth or stochastic. This includes several problems in Machine Learning and Deep Learning. 
 
-News: 
-- I'll be speaking at the [https://supercomputersfordl2017.github.io/ Deep Learning at Supercomputing Scale] symposium at NIPS 2017. You can find the slides [nips17.key here].  
+# News: 
+# - I'll be speaking at the [https://supercomputersfordl2017.github.io/ Deep Learning at Supercomputing Scale] symposium at NIPS 2017. You can find the slides [nips17.key here].  
 ~~~
 
 == Contact
@@ -26,7 +26,13 @@ Phone: +1-805-312-8841
 == Publications
 
 - *Regularizing and optimizing LSTM language models.* S. Merity, N. Keskar & R. Socher. \n 
-Paper: [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
+Paper: [https://openreview.net/pdf?id=SyyGPP0TZ ICLR 2018], [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
+
+- *Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours.* S.Merity, N.Keskar, J. Bradbury & R. Socher \n
+Paper: [http://sysml.cc SysML 2018]
+
+- *Improving Generalization Performance by Switching from Adam to SGD.* N. Keskar & R.Socher \n
+Paper: [https://arxiv.org/abs/1712.07628 arXiv preprint]
 
 - *Weighted Transformer Network for Machine Translation.* K. Ahmed, N. Keskar & R. Socher \n
 Paper: [https://arxiv.org/abs/1711.02132 arXiv preprint]
