@@ -29,7 +29,7 @@ Phone: +1-805-312-8841
 Paper: [https://openreview.net/pdf?id=SyyGPP0TZ ICLR 2018], [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
 
 - *Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours.* S.Merity, N.Keskar, J. Bradbury & R. Socher \n
-Paper: [http://sysml.cc SysML 2018]
+Paper: [http://www.sysml.cc/doc/50.pdf SysML 2018 (PDF)]
 
 - *Improving Generalization Performance by Switching from Adam to SGD.* N. Keskar & R.Socher \n
 Paper: [https://arxiv.org/abs/1712.07628 arXiv preprint]
