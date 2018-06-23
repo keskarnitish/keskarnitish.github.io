@@ -25,6 +25,17 @@ Phone: +1-805-312-8841
 
 == Publications
 
+- *The Natural Language Decathlon: Multitask Learning as Question Answering.* B. McCann, N. Keskar, C. Xiong & R. Socher \n
+Paper: [https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf preprint], [https://einstein.ai/research/the-natural-language-decathlon  blog post] \n
+Code: [https://github.com/salesforce/decaNLP GitHub] \n
+Press: [https://venturebeat.com/2018/06/20/salesforce-develops-natural-language-processing-model-that-performs-10-tasks-at-once/ VentureBeat], [https://www.zdnet.com/article/salesforce-research-creates-swiss-army-knife-for-natural-language-processing/ ZDNet], [http://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/richard-socher-wenn-der-computer-multitasking-kann-15650122.html FAZ (German)], [https://siliconangle.com/blog/2018/06/20/salesforce-claims-big-advance-natural-language-processing/ SiliconAngle]
+
+- *Using Mode Connectivity for Loss Landscape Analysis.* A. Gotmare, N. Keskar, C. Xiong & R. Socher \n
+Paper: [https://arxiv.org/abs/1806.06977 arXiv preprint]
+
+- *An Analysis of Neural Language Modeling at Multiple Scales.* S. Merity, N. Keskar & R. Socher \n
+Paper: [https://arxiv.org/abs/1803.08240 arXiv preprint]
+
 - *Regularizing and optimizing LSTM language models.* S. Merity, N. Keskar & R. Socher. \n 
 Paper: [https://openreview.net/pdf?id=SyyGPP0TZ ICLR 2018], [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
 
