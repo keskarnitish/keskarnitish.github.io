@@ -34,7 +34,7 @@ Press: [https://venturebeat.com/2018/06/20/salesforce-develops-natural-language-
 Paper: [https://arxiv.org/abs/1806.06977 arXiv preprint]
 
 - *An Analysis of Neural Language Modeling at Multiple Scales.* S. Merity, N. Keskar & R. Socher \n
-Paper: [https://arxiv.org/abs/1803.08240 arXiv preprint]
+Paper: [https://arxiv.org/abs/1803.08240 arXiv preprint] \n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
 
 - *Regularizing and optimizing LSTM language models.* S. Merity, N. Keskar & R. Socher. \n 
 Paper: [https://openreview.net/pdf?id=SyyGPP0TZ ICLR 2018], [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
