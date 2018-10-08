@@ -25,6 +25,9 @@ Phone: +1-805-312-8841
 
 == Publications
 
+- *Identifying Generalization Properties in Neural Networks.* H. Wang, N. Keskar, C. Xiong & R. Socher \n
+Paper: [https://arxiv.org/abs/1809.07402 arXiv preprint]
+
 - *The Natural Language Decathlon: Multitask Learning as Question Answering.* B. McCann, N. Keskar, C. Xiong & R. Socher \n
 Paper: [https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf preprint], [https://einstein.ai/research/the-natural-language-decathlon  blog post] \n
 Code: [https://github.com/salesforce/decaNLP GitHub] \n
