@@ -3,18 +3,15 @@
 
 ~~~
 {}{img_left}{nitishkeskar_portrait.jpg}{Portrait of Nitish Keskar}{200}{200}
-I'm a Senior Research Scientist at Salesforce Research in Palo Alto where I work on Deep Learning and its applications to Natural Language Processing and Computer Vision. I am particularly interested in efficient training methods and issues pertaining to generalization and scalability.
+I'm a Senior Research Scientist at Salesforce Research in Palo Alto where I work on Deep Learning and its applications to Natural Language Processing. I am particularly interested in efficient training methods and issues pertaining to generalization and scalability. I am also interested in deep learning systems and tooling. 
 
 I received my PhD from [http://www.northwestern.edu/ Northwestern University] in 2017 under the supervision of [http://users.iems.northwestern.edu/~nocedal/ Prof. Jorge Nocedal] and [http://users.iems.northwestern.edu/~andreasw/ Prof. Andreas Waechter]. For my PhD, I focused on efficiently finding solutions to Mathematical Optimization problems which are nonsmooth or stochastic. This includes several problems in Machine Learning and Deep Learning. 
 
-# News: 
-# - I'll be speaking at the [https://supercomputersfordl2017.github.io/ Deep Learning at Supercomputing Scale] symposium at NIPS 2017. You can find the slides [nips17.key here].  
 ~~~
 
 == Contact
 
 Email: [keskar.nitish@gmail.com keskar.nitish@gmail.com] \n
-Phone: +1-805-312-8841
 
 == Links
 - [https://scholar.google.com/citations?user=CJ-_cEEAAAAJ&hl=en Google Scholar]
@@ -25,60 +22,79 @@ Phone: +1-805-312-8841
 
 == Publications
 
-- *Identifying Generalization Properties in Neural Networks.* H. Wang, N. Keskar, C. Xiong & R. Socher \n
+- *CTRL: A Conditional Transformer Language Model for Controllable Generation.* {{<u>N. Keskar</u>}}, B. McCann, L. Varshney, C. Xiong & R. Socher \n 
+Paper: [https://arxiv.org/abs/1909.05858 arXiv preprint], [https://blog.einstein.ai/introducing-a-conditional-transformer-language-model-for-controllable-generation/ blog post] \n
+Code: [https://www.github.com/salesforce/ctrl GitHub]
+
+
+- *Pretrained AI Models: Performativity, Mobility, and Change.* L. Varshney, {{<u>N. Keskar</u>}} & R. Socher \n
+Paper: [https://arxiv.org/abs/1909.03290 arXiv preprint]
+
+- *Neural text summarization: A critical evaluation.* W. Kryściński, {{<u>N. Keskar</u>}}, B. McCann, C. Xiong & R. Socher \n
+Paper: [https://arxiv.org/abs/1908.08960 EMNLP 2019]
+
+- *XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering.* J. Singh, B. McCann, {{<u>N. Keskar</u>}}, C. Xiong & R. Socher \n
+Paper: [https://arxiv.org/abs/1905.11471 arXiv preprint]
+
+- *Unifying Question Answering and Text Classification via Span Extraction.* {{<u>N. Keskar</u>}}, B. McCann, C. Xiong & R. Socher \n
+Paper: [https://arxiv.org/abs/1904.09286 arXiv preprint]
+
+- *Coarse-grain fine-grain coattention network for multi-evidence question answering.* V. Zhong, C. Xiong, {{<u>N. Keskar</u>}} & R. Socher \n
+Paper: [https://openreview.net/pdf?id=Syl7OsRqY7 ICLR 2019], [https://arxiv.org/abs/1901.00603 arXiv preprint]
+
+- *A Closer Look at Deep Learning Heuristics: Learning rate restarts, Warmup and Distillation.* A. Gotmare, {{<u>N. Keskar</u>}}, C. Xiong & R. Socher \n
+Paper: [https://openreview.net/pdf?id=r14EOsCqKX ICLR 2019], [https://arxiv.org/abs/1810.13243 arXiv preprint]
+
+- *Identifying Generalization Properties in Neural Networks.* H. Wang, {{<u>N. Keskar</u>}}, C. Xiong & R. Socher \n
 Paper: [https://arxiv.org/abs/1809.07402 arXiv preprint], [https://einstein.ai/research/blog/identifying-generalization-properties-in-neural-networks blog post]
 
-- *The Natural Language Decathlon: Multitask Learning as Question Answering.* B. McCann, N. Keskar, C. Xiong & R. Socher \n
+- *The Natural Language Decathlon: Multitask Learning as Question Answering.* B. McCann, {{<u>N. Keskar</u>}}, C. Xiong & R. Socher \n
 Paper: [https://einstein.ai/static/images/pages/research/decaNLP/decaNLP.pdf preprint], [https://einstein.ai/research/the-natural-language-decathlon  blog post] \n
 Code: [https://github.com/salesforce/decaNLP GitHub] \n
 Press: [https://venturebeat.com/2018/06/20/salesforce-develops-natural-language-processing-model-that-performs-10-tasks-at-once/ VentureBeat], [https://www.zdnet.com/article/salesforce-research-creates-swiss-army-knife-for-natural-language-processing/ ZDNet], [http://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/richard-socher-wenn-der-computer-multitasking-kann-15650122.html FAZ (German)], [https://siliconangle.com/blog/2018/06/20/salesforce-claims-big-advance-natural-language-processing/ SiliconAngle]
 
-- *Using Mode Connectivity for Loss Landscape Analysis.* A. Gotmare, N. Keskar, C. Xiong & R. Socher \n
+- *Using Mode Connectivity for Loss Landscape Analysis.* A. Gotmare, {{<u>N. Keskar</u>}}, C. Xiong & R. Socher \n
 Paper: [https://arxiv.org/abs/1806.06977 arXiv preprint]
 
-- *An Analysis of Neural Language Modeling at Multiple Scales.* S. Merity, N. Keskar & R. Socher \n
+- *An Analysis of Neural Language Modeling at Multiple Scales.* S. Merity, {{<u>N. Keskar</u>}} & R. Socher \n
 Paper: [https://arxiv.org/abs/1803.08240 arXiv preprint] \n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
 
-- *Regularizing and optimizing LSTM language models.* S. Merity, N. Keskar & R. Socher. \n 
+- *Regularizing and optimizing LSTM language models.* S. Merity, {{<u>N. Keskar</u>}} & R. Socher. \n 
 Paper: [https://openreview.net/pdf?id=SyyGPP0TZ ICLR 2018], [https://arxiv.org/abs/1708.02182 arXiv preprint]\n Code: [https://github.com/salesforce/awd-lstm-lm GitHub]
 
-- *Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours.* S.Merity, N.Keskar, J. Bradbury & R. Socher \n
+- *Scalable Language Modeling: WikiText-103 on a Single GPU in 12 hours.* S.Merity, {{<u>N. Keskar</u>}}, J. Bradbury & R. Socher \n
 Paper: [http://www.sysml.cc/doc/50.pdf SysML 2018 (PDF)]
 
-- *Improving Generalization Performance by Switching from Adam to SGD.* N. Keskar & R.Socher \n
+- *Improving Generalization Performance by Switching from Adam to SGD.* {{<u>N. Keskar</u>}} & R.Socher \n
 Paper: [https://arxiv.org/abs/1712.07628 arXiv preprint]
 
-- *Weighted Transformer Network for Machine Translation.* K. Ahmed, N. Keskar & R. Socher \n
+- *Weighted Transformer Network for Machine Translation.* K. Ahmed, {{<u>N. Keskar</u>}} & R. Socher \n
 Paper: [https://arxiv.org/abs/1711.02132 arXiv preprint]
 
-- *Balancing Communication and Computation in Distributed Optimization.* A. Berahas, R. Bollapragada, N. Keskar & E. Wei \n
-Paper: [https://arxiv.org/abs/1709.02999 arXiv preprint]
+- *Balancing Communication and Computation in Distributed Optimization.* A. Berahas, R. Bollapragada, {{<u>N. Keskar</u>}} & E. Wei \n
+Paper: [https://ieeexplore.ieee.org/document/8528465 IEEE Transactions on Automatic Control], [https://arxiv.org/abs/1709.02999 arXiv preprint]
 
-- *On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima.* N. Keskar, D. Mudigere, J. Nocedal, M. Smelyanskiy & P. T. P. Tang  \n
+- *On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima.* {{<u>N. Keskar</u>}}, D. Mudigere, J. Nocedal, M. Smelyanskiy & P. T. P. Tang  \n
 Paper: [https://openreview.net/forum?id=H1oyRlYgg&noteId=H1oyRlYgg ICLR 2017], [https://arxiv.org/abs/1609.04836 arXiv preprint]\n Code: [https://github.com/keskarnitish/large-batch-training GitHub] \n
 This paper was selected for an oral presentation at ICLR 2017; only 15 such papers were selected. 
 
-- *A Limited-Memory Quasi-Newton Algorithm for Bound-Constrained Nonsmooth Optimization.* N. Keskar & A. Waechter \n
+- *A Limited-Memory Quasi-Newton Algorithm for Bound-Constrained Nonsmooth Optimization.* {{<u>N. Keskar</u>}} & A. Waechter \n
 Paper: [http://www.tandfonline.com/doi/abs/10.1080/10556788.2017.1378652 Optimization Methods & Software], [https://arxiv.org/abs/1612.07350 arXiv preprint]\n Code: [https://github.com/keskarnitish/NQN GitHub]
 
-- *adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs.* N. Keskar & A. Berahas \n
+- *adaQN: An Adaptive Quasi-Newton Algorithm for Training RNNs.* {{<u>N. Keskar</u>}} & A. Berahas \n
 Paper: [http://link.springer.com/chapter/10.1007/978-3-319-46128-1_1 Proceedings of ECML-PKDD 2016], [https://arxiv.org/abs/1511.01169 arXiv preprint]\n Code: [https://github.com/keskarnitish/minSQN GitHub]
 
-- *A Second-Order Method for Convex L1-Regularized Optimization with Active Set Prediction.* N. Keskar, J. Nocedal, F. Oztoprak & A. Waechter \n
+- *A Second-Order Method for Convex L1-Regularized Optimization with Active Set Prediction.* {{<u>N. Keskar</u>}}, J. Nocedal, F. Oztoprak & A. Waechter \n
 Paper: [http://www.tandfonline.com/doi/pdf/10.1080/10556788.2016.1138222 Optimization Methods & Software], [http://arxiv.org/abs/1505.04315 arXiv preprint]\n Code: [https://github.com/keskarnitish/oba GitHub] \n 
 This paper won the [http://explore.tandfonline.com/page/est/charles-broyden-prize 2016 Charles Broyden Prize] for best paper published in the Optimization Methods & Software journal.
 
-- *A Nonmonotone Learning Rate Strategy for SGD Training of Deep Neural Networks.* N. Keskar & G. Saon \n
+- *A Nonmonotone Learning Rate Strategy for SGD Training of Deep Neural Networks.* {{<u>N. Keskar</u>}} & G. Saon \n
 Paper: [http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178917 Proceedings of IEEE ICASSP (2015)]
 
 
-
-
-
-
 == Research Interests
-- Nonlinear Optimization
 - Deep Learning
-- Machine Learning
 - Natural Language Processing
+- Research Tooling
+- Nonlinear Optimization
 - Scientific Computing
