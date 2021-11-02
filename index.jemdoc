@@ -3,11 +3,35 @@
 
 ~~~
 {}{img_left}{nitishkeskar_portrait.jpg}{Portrait of Nitish Keskar}{200}{200}
-I'm a Principal Research Scientist at Salesforce Research in Palo Alto where I work on Deep Learning and its applications to Natural Language Processing. I am particularly interested in large language models (LLMs), efficient training methods, and issues pertaining to generalization and scalability. I am also interested in Deep Learning systems and tooling. 
+I'm a Principal Research Scientist at [https://einstein.ai/ Salesforce Research] in Palo Alto where I broadly work on Deep Learning with a focus on Natural Language Processing. I am particularly interested in large language models (LLMs), efficient training methods, and issues pertaining to generalization and scalability. Along with research, I enjoy productionizing ML technologies to solve customer problems (especially niche problems, such as those on the long tail of interest).
 
 I received my PhD from [http://www.northwestern.edu/ Northwestern University] in 2017 under the supervision of [http://users.iems.northwestern.edu/~nocedal/ Prof. Jorge Nocedal] and [http://users.iems.northwestern.edu/~andreasw/ Prof. Andreas Waechter]. For my PhD, I focused on efficiently finding solutions to Mathematical Optimization problems which are nonsmooth or stochastic. This includes several problems in Machine Learning and Deep Learning. 
 
+
 ~~~
+
+{{<hr>}}
+
+
+Over the years, I have been fortunate to be able to work on a broad set of topics such as:
+
+- Language Modeling ([https://arxiv.org/abs/1708.02182 AWD-LSTM], [https://arxiv.org/abs/1909.05858 CTRL], [https://arxiv.org/abs/2009.06367 GeDi])
+- Multitask Learning ([https://arxiv.org/abs/1806.08730 decaNLP])
+- Machine Translation ([https://arxiv.org/abs/1711.02132 Weighted Transformer])
+- Paraphrasing ([https://arxiv.org/abs/2010.12885 Unsupervised Paraphrasing])
+- Subword Tokenization ([https://arxiv.org/abs/2010.12730 Char2Subword])
+- Model Security ([https://aclanthology.org/2020.emnlp-main.501/ Multilingual Stealing])
+- Extending Transformer Language Models to Protein Generation ([https://arxiv.org/abs/2004.03497 ProGen])
+- Generalization and Deep Learning ([https://openreview.net/forum?id=H1oyRlYgg Large Batch Training and Sharp Minima], [http://proceedings.mlr.press/v108/wang20f.html PAC-Bayes Approach], [https://arxiv.org/abs/1910.10245 Path Sampling])
+- Mathematical Optimization ([https://arxiv.org/abs/1712.07628 Hybrid SGD-Adam Optimizer], [https://www.tandfonline.com/doi/full/10.1080/10556788.2016.1138222 L1-norm Minimization], [https://www.tandfonline.com/doi/abs/10.1080/10556788.2017.1378652?journalCode=goms20 Nonsmooth L-BFGS], [https://ieeexplore.ieee.org/abstract/document/7178917 Nonmonotone SGD], [https://link.springer.com/chapter/10.1007/978-3-319-46128-1_1 adaQN])
+- Medical AI ([https://www.nature.com/articles/s41467-020-19334-3 Breast Cancer Detection])
+
+My [https://scholar.google.com/citations?user=CJ-_cEEAAAAJ&hl=en Google Scholar] contains a list of all my publications. 
+
+
+I am also interested in machine learning systems and tooling. I have also authored an engineering blog on [https://blog.einstein.ai/benchmarking-tensorrt-inference-server/ efficient serving of BERT-like models]. 
+
+
 
 == Contact
 
@@ -19,10 +43,3 @@ Email: [keskar.nitish@gmail.com keskar.nitish@gmail.com] \n
 - [https://www.linkedin.com/in/nitishkeskar LinkedIn]
 - [https://www.twitter.com/strongduality  Twitter]
 - [https://www.github.com/keskarnitish GitHub]
-
-== Research Interests
-- Deep Learning
-- Natural Language Processing
-- Research Tooling
-- Nonlinear Optimization
-- Scientific Computing
